@@ -1,0 +1,1 @@
+The objective of these tasks from the first week is to allow one to practice creating python programs to perform arithmetic and string operations, experimenting with variables, and exploring data types.
