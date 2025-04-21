@@ -1,0 +1,12 @@
+Total Revenue:
+ 85271008 
+
+Max sales: 
+Product           Women's Mountain Shorts, S
+Order_Quantity                        164086
+dtype: object 
+
+Highest Sales Date: 
+Date       2016-07-31
+Revenue        185697
+dtype: object
